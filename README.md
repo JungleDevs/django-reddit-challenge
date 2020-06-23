@@ -1,24 +1,16 @@
 # Jungle Devs - Backend Challenge #001
 
 ## Description
-
-The idea of the challenge is to implement a very simplified version of [Reddit](https://www.reddit.com), 
+**Challenge goal**: The idea of the challenge is to implement a very simplified version of [Reddit](https://www.reddit.com), 
 meaning you will have *Users*, *Topics*, *Posts* and *Comments*. with this you're expected to test your knowledge on 
-the basic concepts involved in a Django backend application, and to also learn even more. Always!
-
-### Challenge goal
-The idea of the challenge is to implement a very simplified version of Reddit, meaning you 
-will have Users, Topics, Posts and Comments. with this you're expected to test your knowledge
-on the basic concepts involved in a Django backend application, and to also learn even more.
+the basic concepts involved in a Django backend application, and to also learn even more.
 Always!
 
-### Target level
-This is an entry level course, no prior knowledge of programming is needed.
+**Target level**: This is an entry level course, no prior knowledge of programming is needed.
  
-### Final accomplishment
-By the end of this challenge, you’ll be able to understand the basics of Django and how to create your own RESTful API with basic CRUD functionalities.
+**Final accomplishment**: By the end of this challenge, you’ll be able to understand the basics of Django and how to create your own RESTful API with basic CRUD functionalities.
 
-### Acceptance criteria
+## Acceptance criteria
 - Separate your project into 4 Django apps, one for each entity:
   - User
   - Topic
