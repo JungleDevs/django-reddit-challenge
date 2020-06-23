@@ -1,0 +1,19 @@
+version: '3.0'
+services:
+  db:
+    image: postgres:10
+    ports:
+      - "5432:5432"
+    volumes:
+      - "./docker/db/pgdata:/var/lib/postgresql/data"
+    environment:
+      POSTGRES_PASSWORD: "postgres"
+      POSTGRES_DB: "backend-challenge-001"
+
+  localstack-s3:
+    image: localstack/localstack:latest
+    ports:
+      - "4572:4572"
+    environment:
+      - SERVICES=s3:4572
+      - DEFAULT_REGION=us-west-1

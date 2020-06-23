@@ -1,0 +1,43 @@
+# Django
+Django==3.0.3
+
+# Database
+psycopg2===2.8.3
+
+# Envs
+django-dotenv==1.4.2
+s3-environ==0.0.5
+
+# Rest Framework
+djangorestframework==3.11.0
+django-filter==2.2.0
+
+# Routers
+drf-nested-routers==0.91.0
+
+# Database
+dj_database_url==0.5.0
+
+# Storages
+django-storages==1.8.0
+
+# Run Server
+gunicorn==20.0.4
+whitenoise==5.0.1
+
+# CORS
+django-cors-headers==3.2.1
+
+# Rest Auth
+django-rest-auth[with_social]==0.9.2
+
+# Email
+django-amazon-ses==3.0.2
+
+# iPython
+ipython==7.12.0
+ipython-genutils==0.2.0
+
+# Project Dependencies
+requests==2.20.0
+sentry-sdk==0.14.0

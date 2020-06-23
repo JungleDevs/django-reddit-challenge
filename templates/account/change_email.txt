@@ -1,0 +1,8 @@
+Time for a change!
+
+We recently received a request to change your email address for backend-challenge-001 from  {{ email }}.
+Just use the link below to confirm this change and follow the steps that follow.
+
+If this was not you simply ignore this email.
+
+{{ confirmation_link }}
