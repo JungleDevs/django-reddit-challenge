@@ -1,4 +1,4 @@
-# Jungle Devs - Backend Challenge #001
+# Jungle Devs - Django Reddit Challenge
 
 ## Description
 **Challenge goal**: The idea of the challenge is to implement a very simplified version of [Reddit](https://www.reddit.com), 
