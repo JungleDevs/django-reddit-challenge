@@ -1,5 +1,5 @@
 # Django
-Django==3.2.6
+Django==3.2.12
 
 # Database
 psycopg2===2.9.1
